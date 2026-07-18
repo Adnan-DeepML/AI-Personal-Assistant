@@ -1,6 +1,6 @@
 
 
-![image alt]([image_url](https://github.com/Adnan-DeepML/AI-Personal-Assistant/blob/main/photo_2026-07-18_15-05-03.jpg?raw=true))
+![image alt](https://github.com/Adnan-DeepML/AI-Personal-Assistant/blob/main/photo_2026-07-18_15-05-03.jpg?raw=true)
 
 
 
