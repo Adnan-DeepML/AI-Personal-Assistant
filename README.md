@@ -1,3 +1,11 @@
+
+
+![image alt]([image_url](https://github.com/Adnan-DeepML/AI-Personal-Assistant/blob/main/photo_2026-07-18_15-05-03.jpg?raw=true))
+
+
+
+
+
 # 🤖 AI Telegram Assistant
 
 An AI-powered Telegram assistant built with **n8n** and **Google Gemini** that automates everyday tasks through a conversational interface.
